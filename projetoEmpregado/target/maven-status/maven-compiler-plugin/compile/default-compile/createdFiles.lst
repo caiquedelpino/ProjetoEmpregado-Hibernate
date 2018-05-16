@@ -1,0 +1,14 @@
+prova\persistence\jdbcUtil.class
+prova\persistence\HibernateUtil.class
+prova\App.class
+prova\persistence\IDAO.class
+prova\persistence\HoristaJdbcDAO.class
+prova\persistence\EmpregadoJdbcDAO.class
+prova\model\Cliente.class
+prova\model\Empregado.class
+prova\persistence\ComissionadoJdbcDAO.class
+prova\model\Assalariado.class
+prova\persistence\ClienteHibernateDAO.class
+prova\persistence\AssalariadoJdbcDAO.class
+prova\model\Horista.class
+prova\model\Comissionado.class
